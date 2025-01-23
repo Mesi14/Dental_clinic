@@ -13,11 +13,11 @@ This is a single page layout webpage for a dental clinic.
 
 ## Screenshot
 
-![screenshot]()
+![screenshot](./Assets/Images/github.io.jpg)
 
 ## Live version
 
-For the live version of this project please visit the following [link]()
+For the live version of this project please visit the following [link](https://mesi14.github.io/Dental_clinic/)
 
 ## Get_started
 

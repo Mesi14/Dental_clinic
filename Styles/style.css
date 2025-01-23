@@ -56,7 +56,7 @@ body {
   width: 100%;
 }
 
-#about {
+.descript {
   width: 90%;
   align-items: center;
   justify-content: space-between;
@@ -123,8 +123,7 @@ body {
 }
 
 #how {
-  margin-top: 3.125rem;
-  margin-bottom: 3.125rem;
+  margin: 3.125rem 0;
   padding: 1.875rem;
   height: 18.75rem;
   background: url(/Assets/Images/medic.jpeg);
